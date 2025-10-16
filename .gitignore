@@ -19,3 +19,9 @@ gpt2-african-recipes-final/model.safetensors
 gpt2-african-recipes-final/model.safetensors
 
 gpt2-african-recipes-final/model.safetensors
+
+# Ignore large model weights
+phi3-recipe-finetuned/model-00001-of-00004.safetensors
+phi3-recipe-finetuned/model-00002-of-00004.safetensors
+phi3-recipe-finetuned/model-00003-of-00004.safetensors
+phi3-recipe-finetuned/model-00004-of-00004.safetensors
